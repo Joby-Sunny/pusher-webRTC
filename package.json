@@ -1,0 +1,21 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "Build a video call application using webrtc and Pusher",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "webRTc",
+    "Pusher",
+    "Videocall"
+  ],
+  "author": "Ogundipe Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pusher": "^1.5.1"
+  }
+}
